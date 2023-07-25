@@ -1,9 +1,7 @@
-# LEE SEUNG WON
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSeungWon97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ltmddnjs4656)](https://solved.ac/ltmddnjs4656/)
+# LEE SEUNG WON [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSeungWon97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon97&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeungWon97&layout=compact)](https://github.com/LeeSeungWon97/github-readme-stats)
+
 
 
 # Skill
