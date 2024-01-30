@@ -15,4 +15,4 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 
 # Today I Learn
-<a href="[https://aboard-marsupial-ce1.notion.site/Study-2853c896ffb94e628293aa715ae81015?pvs=4](https://www.notion.so/4030d9bc84d54f7a84f967627d88e8de?v=79804b6286764407af0ad08941b52659)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
+<a href="https://aboard-marsupial-ce1.notion.site/4030d9bc84d54f7a84f967627d88e8de?v=79804b6286764407af0ad08941b52659&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
